@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>1 DH Texas Hold'em Poker Chips Store</title>
+    <title>DH Texas Hold'em Poker Chips Store</title>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FR2XN7FS14"></script>
